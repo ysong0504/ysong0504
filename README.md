@@ -1,14 +1,34 @@
-- 👋 Hey, I’m Song
-- 👀 I’m interested in listening to music, exploring towns and getting knowledge
-- 🌱 I’m currently learning @Hanghae99
-- 💞️ I’m looking to collaborate on every possible projects I can be a part of
+
+### Hi😉, I'm Song 
+  <a href="https://velog.io/@ysong0504" target="_blank"><img src="https://img.shields.io/badge/Blog-3DDC84?style=flat-square&logo=heart&logoColor=red"/></a>  <!-- 벨로그 -->
+  <img src="https://img.shields.io/badge/ysong0504@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <!-- 지메일 -->
 
 
-<!-- <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>">
- -->
-<!-- https://media.vlpt.us/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png?w=240 -->
+#### ⚔ Skills <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <!-- node.js -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <!-- js -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> <!-- ts -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <!-- python -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> <!-- aws -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> <!-- mongodb -->
 
-<a href="https://velog.io/@ysong0504" target="_blank"><img src="https://img.shields.io/badge/velog-배경색?style=flat-square&logo=로고&logoColor=green"/></a>
+ 
+#### ⛏ Tools
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <!-- Notion -->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <!-- slack -->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> <!-- vscode -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <!-- git -->
+
+
+
+#### 🏅 GitHub stats 
+![](https://github-readme-stats.vercel.app/api?username=ysong0504&show_icons=true&theme=buefy) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysong0504&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
 <!---
