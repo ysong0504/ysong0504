@@ -30,6 +30,11 @@
 #### ◾ My Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [기술 면접 회고록](https://velog.io/@ysong0504/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
+- [[WIL] 21.09.06 - 21.09.12](https://velog.io/@ysong0504/WIL-21.09.06-21.09.12)
+- [Nest.js 기본 설치 및 구조](https://velog.io/@ysong0504/Nest.js-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EA%B5%AC%EC%A1%B0)
+- [Nest.js VS Express.js](https://velog.io/@ysong0504/Nest.js-VS-Express.js)
+- [[항해99 2기] TIL 94일차 - 새로운 시작](https://velog.io/@ysong0504/%ED%95%AD%ED%95%B499-2%EA%B8%B0-TIL-94%EC%9D%BC%EC%B0%A8-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EC%9E%91)
 <!-- BLOG-POST-LIST:END -->
 
 
