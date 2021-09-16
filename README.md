@@ -27,8 +27,7 @@
 
 <br>
 
-#### ◾ My Recent Posts
-
+#### 📙 My Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [기술 면접 회고록](https://velog.io/@ysong0504/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [[WIL] 21.09.06 - 21.09.12](https://velog.io/@ysong0504/WIL-21.09.06-21.09.12)
