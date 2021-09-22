@@ -29,11 +29,11 @@
 
 #### 📙 My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CS] 데이터 링크 계층](https://velog.io/@ysong0504/CS-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%81%ED%81%AC-%EA%B3%84%EC%B8%B5)
 - [[주간회고록] 21.09.13 -21.09.19](https://velog.io/@ysong0504/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D-21.09.13-21.09.19)
 - [[CS] OSI 7 계층 구조](https://velog.io/@ysong0504/CS-OSI-7-%EA%B3%84%EC%B8%B5-%EA%B5%AC%EC%A1%B0)
 - [기술 면접 회고록](https://velog.io/@ysong0504/%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [[WIL] 21.09.06 - 21.09.12](https://velog.io/@ysong0504/WIL-21.09.06-21.09.12)
-- [Nest.js 기본 설치 및 구조](https://velog.io/@ysong0504/Nest.js-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EA%B5%AC%EC%A1%B0)
 <!-- BLOG-POST-LIST:END -->
 
 
