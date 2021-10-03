@@ -29,11 +29,11 @@
 
 #### 📙 My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [[주간회고록] 21.09.27 -21.10.03](https://velog.io/@ysong0504/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D-21.09.27-21.10.03)
 - [[CS] 네트워크 계층 - 1](https://velog.io/@ysong0504/CS-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%84%EC%B8%B5-1)
 - [[CS] 암호화 기초](https://velog.io/@ysong0504/CS-%EC%95%94%ED%98%B8%ED%99%94-%EA%B8%B0%EC%B4%88)
 - [[주간회고록] 21.09.20 -21.09.26](https://velog.io/@ysong0504/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D-21.09.20-21.09.26)
 - [노마드코더 - 줌 클론코딩 1](https://velog.io/@ysong0504/%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94-%EC%A4%8C-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-1)
-- [[CS] 데이터 링크 계층](https://velog.io/@ysong0504/CS-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%81%ED%81%AC-%EA%B3%84%EC%B8%B5)
 <!-- BLOG-POST-LIST:END -->
 
 
