@@ -45,11 +45,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [[CS] 네트워크 계층 - 2 (패킷 분할 및 혼잡 제어)](https://velog.io/@ysong0504/CS-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%84%EC%B8%B5-2-%ED%8C%A8%ED%82%B7-%EB%B6%84%ED%95%A0-%EB%B0%8F-%ED%98%BC%EC%9E%A1-%EC%A0%9C%EC%96%B4)
 - [[주간회고록] 21.10.04 -21.10.10](https://velog.io/@ysong0504/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D-21.10.04-21.10.10)
 - [[LeetCode/JS] 121. Best Time to Buy and Sell Stock - 2가지 풀이 방법](https://velog.io/@ysong0504/LeetCodeJS-121.-Best-Time-to-Buy-and-Sell-Stock-2%EA%B0%80%EC%A7%80-%ED%92%80%EC%9D%B4-%EB%B0%A9%EB%B2%95)
 - [[LeetCode/JS] 1.Two Sum - 2가지 풀이 방법](https://velog.io/@ysong0504/LeetCodeJS-1.Two-Sum-2%EA%B0%80%EC%A7%80-%ED%92%80%EC%9D%B4-%EB%B0%A9%EB%B2%95)
 - [[주간회고록] 21.09.27 -21.10.03](https://velog.io/@ysong0504/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D-21.09.27-21.10.03)
-- [[CS] 네트워크 계층 - 1](https://velog.io/@ysong0504/CS-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%84%EC%B8%B5-1)
 <!-- BLOG-POST-LIST:END -->
 
 
