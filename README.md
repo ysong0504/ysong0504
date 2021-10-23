@@ -45,11 +45,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Nest.js] 전역으로 에러 핸들링 설정하기](https://velog.io/@ysong0504/Nest.js-%EC%A0%84%EC%97%AD%EC%9C%BC%EB%A1%9C-%EC%97%90%EB%9F%AC-%ED%95%B8%EB%93%A4%EB%A7%81-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 - [[CS] Internet Protocol (IP) 기본 개념](https://velog.io/@ysong0504/CS-Internet-Protocol-IP-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
 - [[주간회고록] 21.10.11 -21.10.17](https://velog.io/@ysong0504/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D-21.10.11-21.10.17)
 - [[CS] LAN 프로토콜](https://velog.io/@ysong0504/CS-LAN-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
 - [[CS] 네트워크 계층 - 2 (패킷 분할 및 혼잡 제어)](https://velog.io/@ysong0504/CS-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B3%84%EC%B8%B5-2-%ED%8C%A8%ED%82%B7-%EB%B6%84%ED%95%A0-%EB%B0%8F-%ED%98%BC%EC%9E%A1-%EC%A0%9C%EC%96%B4)
-- [[주간회고록] 21.10.04 -21.10.10](https://velog.io/@ysong0504/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D-21.10.04-21.10.10)
 <!-- BLOG-POST-LIST:END -->
 
 
