@@ -45,11 +45,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [[TIL] 2021.11.17-18 &lpar;수,목&rpar;](https://velog.io/@ysong0504/TIL-2021.11.17-18-%EC%88%98%EB%AA%A9)
 - [[TIL] 2021.11.16 &lpar;화&rpar;](https://velog.io/@ysong0504/TIL-2021.11.16-%ED%99%94)
 - [[TIL] 2021.11.15 &lpar;월&rpar;](https://velog.io/@ysong0504/TIL-2021.11.15-%EC%9B%94)
 - [[CS] 응용계층 프로토콜](https://velog.io/@ysong0504/CS-%EC%9D%91%EC%9A%A9%EA%B3%84%EC%B8%B5-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
 - [[오류일지] TypeORM과 Typescript를 이용하여 MySQL 정렬 기준 변수로 설정하기](https://velog.io/@ysong0504/%EC%98%A4%EB%A5%98%EC%9D%BC%EC%A7%80-TypeORM%EA%B3%BC-Typescript%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-MySQL-%EC%A0%95%EB%A0%AC-%EA%B8%B0%EC%A4%80-%EB%B3%80%EC%88%98%EB%A1%9C-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-- [[주간회고록] 21.10.18 -21.10.24](https://velog.io/@ysong0504/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0%EB%A1%9D-21.10.18-21.10.24)
 <!-- BLOG-POST-LIST:END -->
 
 
