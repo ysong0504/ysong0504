@@ -45,11 +45,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Effective Typescript - 아이템 25] async: 콜백, 프로미스 대신 사용하는 비동기 함수](https://velog.io/@ysong0504/Effective-Typescript-%EC%95%84%EC%9D%B4%ED%85%9C-25-async-%EC%BD%9C%EB%B0%B1-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4-%EB%8C%80%EC%8B%A0-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%95%A8%EC%88%98)
 - [[오류 일지] @InjectRepository - Circular Reference Error](https://velog.io/@ysong0504/%EC%98%A4%EB%A5%98-%EC%9D%BC%EC%A7%80-InjectRepository-Circular-Reference-Error)
 - [[MySql] safe update mode 해제 &amp; 컬럼 REPLACE](https://velog.io/@ysong0504/MySql-safe-update-mode-%ED%95%B4%EC%A0%9C-%EC%BB%AC%EB%9F%BC-REPLACE)
 - [[jest] spyOn을 이용하여 외부 함수 mocking 하기](https://velog.io/@ysong0504/jest-spyOn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%99%B8%EB%B6%80-%ED%95%A8%EC%88%98-mocking-%ED%95%98%EA%B8%B0)
 - [[TIL] 2021.12.07 &lpar;화&rpar;](https://velog.io/@ysong0504/TIL-2021.12.07-%ED%99%94)
-- [[Effective Typescript - 아이템 17] readonly: 의도치 않은 값의 변경으로 인해 생기는 오류 방지하기](https://velog.io/@ysong0504/Effective-Typescript-%EC%95%84%EC%9D%B4%ED%85%9C-17-readonly-%EC%9D%98%EB%8F%84%EC%B9%98-%EC%95%8A%EC%9D%80-%EA%B0%92%EC%9D%98-%EB%B3%80%EA%B2%BD%EC%9C%BC%EB%A1%9C-%EC%9D%B8%ED%95%B4-%EC%83%9D%EA%B8%B0%EB%8A%94-%EC%98%A4%EB%A5%98-%EB%B0%A9%EC%A7%80%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 
