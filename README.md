@@ -45,11 +45,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Effective Typescript - 아이템 39] any를 구체적으로 변형해서 사용하기](https://velog.io/@ysong0504/Effective-Typescript-%EC%95%84%EC%9D%B4%ED%85%9C-39-any%EB%A5%BC-%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%98%95%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [[Effective Typescript - 아이템 32] 유니온의 인터페이스보단 인터페이스의 유니온을 사용하기](https://velog.io/@ysong0504/Effective-Typescript-%EC%95%84%EC%9D%B4%ED%85%9C-32-%EC%9C%A0%EB%8B%88%EC%98%A8%EC%9D%98-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B3%B4%EB%8B%A8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98-%EC%9C%A0%EB%8B%88%EC%98%A8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [[Effective Typescript - 아이템 25] async: 콜백, 프로미스 대신 사용하는 비동기 함수](https://velog.io/@ysong0504/Effective-Typescript-%EC%95%84%EC%9D%B4%ED%85%9C-25-async-%EC%BD%9C%EB%B0%B1-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4-%EB%8C%80%EC%8B%A0-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%95%A8%EC%88%98)
 - [[오류 일지] @InjectRepository - Circular Reference Error](https://velog.io/@ysong0504/%EC%98%A4%EB%A5%98-%EC%9D%BC%EC%A7%80-InjectRepository-Circular-Reference-Error)
 - [[MySql] safe update mode 해제 &amp; 컬럼 REPLACE](https://velog.io/@ysong0504/MySql-safe-update-mode-%ED%95%B4%EC%A0%9C-%EC%BB%AC%EB%9F%BC-REPLACE)
-- [[jest] spyOn을 이용하여 외부 함수 mocking 하기](https://velog.io/@ysong0504/jest-spyOn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%99%B8%EB%B6%80-%ED%95%A8%EC%88%98-mocking-%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 
