@@ -45,11 +45,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [자료구조의 종류 및 시간 복잡도](https://velog.io/@ysong0504/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)
+- [Oh My Zsh으로 Iterm 꾸미기](https://velog.io/@ysong0504/Oh-My-Zsh%EC%9C%BC%EB%A1%9C-Iterm-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
 - [Mac 에서 oracle 설치 및 실행하기](https://velog.io/@ysong0504/Mac-%EC%97%90%EC%84%9C-oracle-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
 - [[오라클 DB] SQL 문 종류](https://velog.io/@ysong0504/%EC%98%A4%EB%9D%BC%ED%81%B4-DB-SQL-%EB%AC%B8)
 - [[Effective Typescript - 아이템 42] 모르는 타입의 값에는 any 대신 unknown을 사용하기](https://velog.io/@ysong0504/Effective-Typescript-%EC%95%84%EC%9D%B4%ED%85%9C-42-%EB%AA%A8%EB%A5%B4%EB%8A%94-%ED%83%80%EC%9E%85%EC%9D%98-%EA%B0%92%EC%97%90%EB%8A%94-any-%EB%8C%80%EC%8B%A0-unknown%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-- [[Effective Typescript - 아이템 39] any를 구체적으로 변형해서 사용하기](https://velog.io/@ysong0504/Effective-Typescript-%EC%95%84%EC%9D%B4%ED%85%9C-39-any%EB%A5%BC-%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%B3%80%ED%98%95%ED%95%B4%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-- [[Effective Typescript - 아이템 32] 유니온의 인터페이스보단 인터페이스의 유니온을 사용하기](https://velog.io/@ysong0504/Effective-Typescript-%EC%95%84%EC%9D%B4%ED%85%9C-32-%EC%9C%A0%EB%8B%88%EC%98%A8%EC%9D%98-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B3%B4%EB%8B%A8-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98-%EC%9C%A0%EB%8B%88%EC%98%A8%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 
