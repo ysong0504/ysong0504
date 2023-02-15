@@ -19,13 +19,15 @@
 
 <br>
 
-## ◾ Skills <br>
+## ◾ Main Skills <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <!-- node.js -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <!-- js -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> <!-- ts -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <!-- python -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> <!-- aws -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> <!-- mongodb -->
+ 
+ <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  python -->
+ <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>  aws -->
+ <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> mongodb -->
+
 
 <br>
  
@@ -39,7 +41,7 @@
 
 ## ◾ GitHub stats 
 ![](https://github-readme-stats.vercel.app/api?username=ysong0504&show_icons=true&theme=buefy) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysong0504&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysong0504&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
 
