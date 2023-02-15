@@ -47,11 +47,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [GCP 인스턴스 생성하기](https://velog.io/@ysong0504/GCP-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 - [비선형 자료구조 - 그래프](https://velog.io/@ysong0504/%EB%B9%84%EC%84%A0%ED%98%95-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B7%B8%EB%9E%98%ED%94%84)
 - [자료구조의 종류 및 시간 복잡도](https://velog.io/@ysong0504/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)
 - [Oh My Zsh으로 Iterm 꾸미기](https://velog.io/@ysong0504/Oh-My-Zsh%EC%9C%BC%EB%A1%9C-Iterm-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
 - [Mac 에서 oracle 설치 및 실행하기](https://velog.io/@ysong0504/Mac-%EC%97%90%EC%84%9C-oracle-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
-- [[오라클 DB] SQL 문 종류](https://velog.io/@ysong0504/%EC%98%A4%EB%9D%BC%ED%81%B4-DB-SQL-%EB%AC%B8)
 <!-- BLOG-POST-LIST:END -->
 
 
