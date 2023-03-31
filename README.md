@@ -47,11 +47,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [TIL&rpar; 2023-03-30](https://velog.io/@ysong0504/TIL-2023-03-30)
 - [Google Cloud CLI 설치하기 &lpar;Mac&rpar;](https://velog.io/@ysong0504/Google-Cloud-CLI-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-Mac)
 - [GCP 인스턴스 생성하기](https://velog.io/@ysong0504/GCP-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 - [비선형 자료구조 - 그래프](https://velog.io/@ysong0504/%EB%B9%84%EC%84%A0%ED%98%95-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B7%B8%EB%9E%98%ED%94%84)
 - [자료구조의 종류 및 시간 복잡도](https://velog.io/@ysong0504/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84)
-- [Oh My Zsh으로 Iterm 꾸미기](https://velog.io/@ysong0504/Oh-My-Zsh%EC%9C%BC%EB%A1%9C-Iterm-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 
