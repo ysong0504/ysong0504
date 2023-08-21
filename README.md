@@ -47,11 +47,11 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [[TypeORM] 마이그레이션 후 발생하는 not-null constraint 에러 해결하기](https://velog.io/@ysong0504/TypeORM-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-not-null-constraint-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 - [맥 k9s config.yaml 경로](https://velog.io/@ysong0504/%EB%A7%A5-k9s-config.yaml-%EA%B2%BD%EB%A1%9C)
 - [TIL&rpar; 2023-03-30](https://velog.io/@ysong0504/TIL-2023-03-30)
 - [Google Cloud CLI 설치하기 &lpar;Mac&rpar;](https://velog.io/@ysong0504/Google-Cloud-CLI-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-Mac)
 - [GCP 인스턴스 생성하기](https://velog.io/@ysong0504/GCP-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
-- [비선형 자료구조 - 그래프](https://velog.io/@ysong0504/%EB%B9%84%EC%84%A0%ED%98%95-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EA%B7%B8%EB%9E%98%ED%94%84)
 <!-- BLOG-POST-LIST:END -->
 
 
