@@ -47,7 +47,7 @@
 
 ## ◾ My Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [2024년 회고 &lpar; 금쪽이 개발자가 semi 금쪽이로 거듭났을 때&rpar;](https://velog.io/@ysong0504/2024%EB%85%84-%ED%9A%8C%EA%B3%A0)
+- [2024년 회고 &lpar;금쪽이 개발자가 semi 금쪽이로 거듭났을 때&rpar;](https://velog.io/@ysong0504/2024%EB%85%84-%ED%9A%8C%EA%B3%A0)
 - [쿠버네티스 - probe](https://velog.io/@ysong0504/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-probe)
 - [[Leetcode/30days of JS] ToBe Or NotToBe](https://velog.io/@ysong0504/Leetcode30days-of-JS-ToBe-Or-NotToBe)
 - [[TypeORM] 마이그레이션 후 발생하는 not-null constraint 에러 해결하기](https://velog.io/@ysong0504/TypeORM-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-not-null-constraint-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
